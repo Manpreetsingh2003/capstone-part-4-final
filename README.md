@@ -18,3 +18,12 @@ Detail View Modal/Section:
 Clicking on a Pokémon opens a detailed view, showing stats, abilities, evolution chain, and other attributes.
 Filter Options:
 Users can filter Pokémon by type, region, or generation for more specific browsing.
+
+Comparison: Quiz vs. Pokedex Design Elements
+Feature	Quiz Web Application	Pokedex Web Application
+Purpose	Test knowledge with random quiz questions	Provide detailed Pokémon information
+User Interaction	Answer questions, view scores, reset statistics	Search, filter, view Pokémon details
+Key Components	Question area, timer, statistics, reset button	Search bar, Pokémon cards, detail view, filters
+Dynamic Content	Questions fetched dynamically based on difficulty	Pokémon data fetched dynamically from an API
+Layout Style	Focus on timed quiz interface	Grid-based, card-focused for easy browsing
+Responsiveness	Adaptable quiz layout for various devices	Fully responsive, touch-friendly interface
